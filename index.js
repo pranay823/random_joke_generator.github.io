@@ -16,3 +16,4 @@ let url = "https://v2.jokeapi.dev/joke/Any?blacklistFlags=nsfw,religious,politic
 }
 
 jokeBtn.addEventListener("click" , getjoke)
+getjoke();

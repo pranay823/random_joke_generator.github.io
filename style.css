@@ -49,4 +49,6 @@ html{
     letter-spacing: 0.2rem;
     font-weight: 700;
     color: rgba(0, 0, 0, 0.691);
+    border: none;
+    border-radius: 0.5rem;
 }
